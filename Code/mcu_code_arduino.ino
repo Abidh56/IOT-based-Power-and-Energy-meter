@@ -6,12 +6,12 @@
 #include <SoftwareSerial.h>
 #include <SimpleTimer.h>
 
-char auth[] = "nSC5994bDxGyYpYM4ds3sFeKoDSHBdKz";
+char auth[] = "Your auth";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "ABID";
-char pass[] = "8901234567";
+char ssid[] = "your SSID";
+char pass[] = "PASSWORD";
 
 SimpleTimer timer;
 
